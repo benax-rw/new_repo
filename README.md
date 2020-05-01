@@ -23,3 +23,4 @@ Helpful for whom
 
 1. Searching a data in the multiple files and folders
 2. Quickly find out a setting string in the multiple files 
+3. Feel proud of yourself
